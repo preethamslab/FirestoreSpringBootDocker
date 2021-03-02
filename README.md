@@ -8,7 +8,7 @@ now:
 
 setup cluster in your favourite Kubernetes provider(AWS, GKE, Azure)
 Setup kubectl and run it locally.
-kubectl apply -f
+kubectl apply -f deployment.yaml
 IP you get in services should, replaced localhost with the IP. All your services must be up and runnning
 
 . note: new to writing tech stuff, pardon me if any mistakes. Always welcome for progressive feedback
